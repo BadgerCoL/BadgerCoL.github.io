@@ -55,3 +55,15 @@
   margin-bottom: 0;
 }
 
+.projects-clean .item {
+  text-align: center;
+  padding-top: 50px;
+  min-height: 425px;
+}
+
+.projects-clean .item .ytvideo:hover {
+  transition: all 300ms;
+  transform: scale(1.1);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+}
+
